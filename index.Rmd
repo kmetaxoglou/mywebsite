@@ -44,11 +44,11 @@ Kostas Metaxoglou, Ph.D. (Economics, UC Davis) is an Associate Professor in the 
 
 ***
 ## Curriculum Vitae
-  * Latest version in PDF format [link](https://scholar.google.ca/citations?hl=en&user=Zd5RAmYAAAAJ)  
+  * Latest version in PDF format [(link)](https://www.dropbox.com/s/0u5e6cnkz0b1jyy/metaxoglou_vitae_feb2021.pdf?dl=0)  
 
 ***
 ## Research
- Google Scholar (link)
+ Google Scholar [(link)](https://scholar.google.ca/citations?hl=en&user=Zd5RAmYAAAAJ)  
  
 ***
 
@@ -80,8 +80,9 @@ Kostas Metaxoglou, Ph.D. (Economics, UC Davis) is an Associate Professor in the 
 8. Are we fracked? The impact of falling gas prices and the implications for coal-to-gas switching and carbon emissions, Oxford Review of Economic Policy, 2016 (with Chris Knittel and Andre Trindade) link
 
 9. Working with Data: Two Empiricists' Experience, Journal of Econometric Methods (Practitioner's Corner), 2016 (with Chris Knittel) link 
-
-* Slides from a presentation at Carleton link
+   * Slides from a presentation at Carleton link
+   
+\medskip   
 
 10. State Prices of Conditional Quantiles: New Evidence on Time Variation in the Empirical Pricing Kernel, Journal of Applied Econometrics, 2016 (with Aaron Smith) link
 
@@ -104,7 +105,7 @@ Kostas Metaxoglou, Ph.D. (Economics, UC Davis) is an Associate Professor in the 
     * Wharton Public Policy Initiative Brief link
     * Kleinman Center for Energy Policy Digest link 
     
-  \medskip  
+\medskip  
 
   * Exporting Global Warming? Coal Trade and the Shale Gas Boom, Revise and Resubmit (with Chris Knittel, Andre Trindade, and Anson Soderbery) link
 
