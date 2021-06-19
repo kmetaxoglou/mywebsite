@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my website"
+title: "Kostas Metaxoglou"
 output: 
   html_document:
     toc: FALSE
@@ -48,7 +48,7 @@ Kostas Metaxoglou, Ph.D. (Economics, UC Davis) is an Associate Professor in the 
 
 ***
 ## Research
- Google Scholar [(link)](https://scholar.google.ca/citations?hl=en&user=Zd5RAmYAAAAJ)  
+  * Google Scholar [(link)](https://scholar.google.ca/citations?hl=en&user=Zd5RAmYAAAAJ)  
  
 ***
 
