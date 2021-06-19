@@ -5,6 +5,8 @@ output:
     toc: FALSE
 ---
 
+https://kmetaxoglou.github.io/personal/
+
 <!-- Based on info here -->
 <!-- https://www.andreashandel.com/post/github-website/ -->
 
