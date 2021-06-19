@@ -4,7 +4,8 @@ output:
   html_document:
     toc: FALSE
 ---
-
+<!-- *********************************************************************** -->
+<!-- *********************************************************************** -->
 <!-- https://kmetaxoglou.github.io/personal/ -->
 
 <!-- Based on info here -->
@@ -15,6 +16,9 @@ output:
 
 <!-- Appearance and Style -->
 <!-- https://bookdown.org/yihui/rmarkdown/html-document.html#appearance-and-style -->
+
+<!-- *********************************************************************** -->
+<!-- *********************************************************************** -->
 
 Last updated: `r format(Sys.time(), '%d %B, %Y')`
 
