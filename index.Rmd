@@ -22,7 +22,7 @@ output:
 
 Last updated: `r format(Sys.time(), '%d %B, %Y')`
 
-![](files/kmetaxoglou_bw_ceepr.jpg)
+![](files/pic.jpg)
 
 ***
 
